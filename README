@@ -1,0 +1,12 @@
+Questo archivio contiene il materiale per il progetto del corso di
+High Performance Computing, laurea in Ingegneria e Scienze
+Informatiche, Universita' di Bologna sede di Cesena.
+
+Per compilare i programmi è possibile utilizzare il Makefile presente 
+nella directory src/ , nel caso in cui si voglia effettuare una compilazione
+manuale i comandi da usare sono presenti nei corrispettivi sorgenti.
+
+Inoltre ho aggiunto alla cartella gli script usati per raccogliere i dati relativi alle performance.
+
+Marco Galeri marco.galeri@studio.unibo.it
+0001019991
